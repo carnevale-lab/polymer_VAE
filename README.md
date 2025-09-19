@@ -5,7 +5,7 @@ Generative Modeling of Entangled Polymers with a Distance-Based Variational Auto
 ## Model architecture
 
 <p align="center">
-  <img width="100%" height="auto" src="https://github.com/oscarserra1999/Polymer-VAE/blob/7c68f58e020d95d477d553d3838123e4a6e8e20a/model_architecture.png">
+  <img width="100%" height="auto" src="https://github.com/carnevale-lab/polymer_VAE/blob/6786ac055f2afe931fad46a3814e0fe064dcffde/model_architecture.png">
 </p>
 
 ## Data
