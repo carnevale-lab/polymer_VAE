@@ -12,13 +12,13 @@ Generative Modeling of Entangled Polymers with a Distance-Based Variational Auto
 
 The datasets associated with the paper can be generated from coarse-grained MD simulations (see the paper for details). For accessibility, we provide a small sample dataset in the **data** directory. These files allow you to test the training, reconstruction, latent space analysis and generation pipelines.
 
-small_matrices.dat     →     30 upper-triangular distance matrices of polyethylene configurations.
+small_matrices.dat     →     30 upper-triangular distance matrices of polyethylene configurations.  
 Note: Each line corresponds to one matrix and starts with the number of atoms (400 in our case).
 
-small_temps.dat        →     Temperature labels for each sample.
+small_temps.dat        →     Temperature labels for each sample.  
 Note: Each line is a scalar value (100, 200, or 300), aligned with the order of matrices in small_matrices.dat
 
-small_energies.dat     →     Energy values for each sample.
+small_energies.dat     →     Energy values for each sample.  
 Note: Each line contains the potential energy of the corresponding matrix, in the same order as above.
 
 ### Setup
