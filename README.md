@@ -81,14 +81,4 @@ optional arguments:
   --gen_samples          Number of de novo samples to generate (default = 100).
 ```
 
-## Citation
-If you use our model in any project or publication, please cite our paper [Generative Modeling of Entangled Polymers with a Distance-Based Variational Autoencoder](XXXlinkXXX)
 
-```
-@article{chiarantoni2025genVAEpol,
-  title={Generative Modeling of Entangled Polymers with a Distance-Based Variational Autoencoder},
-  author={Chiarantoni, Pietro and Serra, Oscar and Mowlaei, Mohammad Erfan and Choutipalli, Venkata Surya Kumar and DelloStritto, Mark and Shi, Xinghua Mindy and Klein, Micheal L. and Carnevale, Vincenzo},
-  year={2025},
-  journal={XXXXX}
-}
-```
